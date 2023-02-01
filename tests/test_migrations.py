@@ -12,7 +12,7 @@ from plumbum.cmd import git, invoke
 
 # from .conftest import bypass_pre_commit
 
-LATEST_VERSION_WITHOUT_COPIER = "v0.0.0"
+LATEST_VERSION_WITHOUT_COPIER = "v0.0.1"
 MISSING = object()
 
 
